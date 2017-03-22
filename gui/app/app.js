@@ -103,7 +103,7 @@ angular.module('ndslabs', [ 'navbar', 'footer', 'ndslabs-services', 'ndslabs-fil
  */
  
 .constant('OrgName', 'iSchool')
-.constant('ProductName', 'Educational Workbench for Data Curation')
+.constant('ProductName', 'Data Curation Workbench')
 .constant('ProductUrl', 'http://www.nationaldataservice.org/projects/labs.html')
 
 .value('HelpLinks', [
